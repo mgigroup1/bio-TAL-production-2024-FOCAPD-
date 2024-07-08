@@ -3,6 +3,9 @@ This research article, presented at the Foundations of Computer-Aided Process De
 Key insights:
 
 TAL, traditionally derived from petroleum, can be sustainably produced from renewable biomass or CO2-derived feedstocks.
+
 The research compares different technology scenarios to identify the most cost-effective and sustainable production methods.
+
 Utilizing CO2 emissions from the bioreactor as a feedstock for formic acid production shows potential for achieving net-negative CO2 emissions.
+
 The study demonstrates the benefits of CO2 recycling, with a minimal increase in the minimum selling price (MSP) compared to traditional methods but significant environmental gains.
